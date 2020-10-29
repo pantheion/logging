@@ -1,0 +1,19 @@
+{
+    "name": "pantheion/logging",
+    "description": "Log stuff",
+    "authors": [
+        {
+            "name": "Pedro Miguel",
+            "email": "pedro.aos19@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pantheion\\Logging\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "^2.0@dev"
+    }
+}

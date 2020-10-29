@@ -1,0 +1,7 @@
+vendor/
+notes.txt
+index.php
+composer.lock
+storage/
+/vendor/
+logs/
